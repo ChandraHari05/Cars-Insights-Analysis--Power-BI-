@@ -29,7 +29,7 @@ This Power BI project analyzes a comprehensive dataset of large cars to uncover 
 
 ## 📷 Screenshots
 
-> ![Imagealt]()
+> ![Imagealt](https://github.com/ChandraHari05/Cars-Insights-Analysis--Power-BI-/blob/3539dcfe8c3e6b4c1ab7abe1d6618ddce396120a/Cars%20Insights%20Analysis/Screenshot%202025-06-15%20221031.png)
 
 ## 🚀 How to Use
 
