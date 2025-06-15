@@ -48,6 +48,6 @@ Analyzed a large car dataset to uncover insights on ⚙️ performance, ⛽ fuel
 For any queries or suggestions:  
 📧 charimudali05@mail.com  
 🔗 [LinkedIn](www.linkedin.com/in/chandrahari-u-0082ba270)  
-🔗 [GitHub]([https://github.com/yourusername](https://github.com/ChandraHari05))
+🔗 [GitHub](https://github.com/ChandraHari05)
 
 ---
