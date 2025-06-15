@@ -29,7 +29,7 @@ This Power BI project analyzes a comprehensive dataset of large cars to uncover 
 
 ## 📷 Screenshots
 
-*(Insert screenshots of your dashboard here)*  
+> ![Imagealt]()
 
 ## 🚀 How to Use
 
