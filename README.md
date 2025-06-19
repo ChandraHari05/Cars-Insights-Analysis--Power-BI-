@@ -6,7 +6,7 @@ This Power BI project analyzes a comprehensive dataset of large cars to uncover 
 
 ## 🎯 Objectives
 
-- 🔍 Analyze distribution of key features like MPG, horsepower, and weight.
+- 🔍 Analyze distribution of key features like MSRP, horsepower, and weight.
 - ⚖️ Compare car models based on performance and pricing.
 - 📈 Identify trends and outliers in engine specifications.
 - 🧭 Provide interactive visualizations.
